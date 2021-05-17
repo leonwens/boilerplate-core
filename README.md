@@ -2,8 +2,6 @@
 
 基于 webpack4.0 版本的前端项目脚手架核心配置逻辑
 
-![Version](https://img.shields.io/badge/version-1.0.4-blue)
-
 发布步骤:
 
 1. 修改版本号
@@ -21,6 +19,7 @@
 - karma
 - tsconfig
 - webpack
+- postcss
 
 提供可执行脚本:
 
