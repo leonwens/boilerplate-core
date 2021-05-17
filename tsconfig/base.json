@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "lib": ["dom", "es2015", "es2016", "es2017", "esnext"],
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "listEmittedFiles": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "es5"
+  },
+  "compileOnSave": false
+}
